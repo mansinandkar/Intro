@@ -1,6 +1,5 @@
 # Intro
-
-# Balaji4397 / README.md
+# README.md
 
 - 👋 Hi, I’m Mansi Nandkar
 - 👀 I’m interested in Data Science and Machine Learning and Software Development.
